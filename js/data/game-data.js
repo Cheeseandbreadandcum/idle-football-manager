@@ -1,7 +1,7 @@
 let game = {
     init: false,
     numberFormatter: new ADNotations.StandardNotation(),
-    money: new Decimal(25000),
+    money: new Decimal(9999999999999999999999999999999999999999),
     team: null,
     currentMatch: null,
     nextMatch: null,
